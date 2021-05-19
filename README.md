@@ -1,7 +1,9 @@
 # VGM / BT Speaker Clock
 
 Project based on Espressif BT audio example. This is planned to be an improved and refined version of an older, more limited Arduino-based VGM clock.
-It will feature:
+
+##Planned Features
+
 -YM3438 FM Synth IC
 -SN76489AN Tone Generator
 -NAU8402 I2S DAC for Bluetooth Audio
