@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/micro/github/VGM_BTclock/build/CMakeFiles/bootloader
+/home/micro/github/VGM_BTclock/build/CMakeFiles/bootloader.rule
+/home/micro/github/VGM_BTclock/build/CMakeFiles/bootloader-complete.rule
+/home/micro/github/VGM_BTclock/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/micro/github/VGM_BTclock/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/micro/github/VGM_BTclock/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/micro/github/VGM_BTclock/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/micro/github/VGM_BTclock/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/micro/github/VGM_BTclock/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/micro/github/VGM_BTclock/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

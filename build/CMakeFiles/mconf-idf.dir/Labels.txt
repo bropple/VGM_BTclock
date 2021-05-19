@@ -1,0 +1,13 @@
+# Target labels
+ mconf-idf
+# Source files and their labels
+/home/micro/github/VGM_BTclock/build/CMakeFiles/mconf-idf
+/home/micro/github/VGM_BTclock/build/CMakeFiles/mconf-idf.rule
+/home/micro/github/VGM_BTclock/build/CMakeFiles/mconf-idf-complete.rule
+/home/micro/github/VGM_BTclock/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-install.rule
+/home/micro/github/VGM_BTclock/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-mkdir.rule
+/home/micro/github/VGM_BTclock/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-download.rule
+/home/micro/github/VGM_BTclock/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-update.rule
+/home/micro/github/VGM_BTclock/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-patch.rule
+/home/micro/github/VGM_BTclock/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-configure.rule
+/home/micro/github/VGM_BTclock/build/mconf-idf-prefix/src/mconf-idf-stamp/mconf-idf-build.rule
